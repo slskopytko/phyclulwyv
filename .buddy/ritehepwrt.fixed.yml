@@ -1,0 +1,4 @@
+- pipeline: ritehepwrt
+  refs:
+  - refs/heads/master
+  on: CLICK
